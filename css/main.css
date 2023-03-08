@@ -1,0 +1,8 @@
+/*Reset all defaults to 0 so thst you can write your own css*/
+/*DONT RELY ON BROWSER DEFAULTS*/
+*{
+    border: none;
+    margin: none;
+    padding: 0;
+    box-sizing: border-box;
+}
